@@ -31,12 +31,12 @@ We also added the adjustable transfer function feature for the chest.
 ![Composer](docs/skull.gif)
 -----
 ## Team_Members
-| Name         |
-|--------------|
-| Ahmed Gamil |
-| Mohamed zakaria hussen    | 
-| Mohamed reda fathy |
-| Hesham gamal shaaban     |
+| Name         |Profile|
+|--------------|--------|
+| Ahmed Gamil |[Ahmed_Gamil](#https://github.com/Ahmed-Gamiel)|
+| Mohamed Zakaria    | [mohamedzakaariaa](#https://github.com/mohamedzakaariaa) |
+| Mohamed Reda  |[mohammedreda0](#https://github.com/mohammedreda0)|
+| Hesham Gamal  |[heshamgamal-ui](#https://github.com/heshamgamal-ui)|
 
 ## Run-App
 **Run the Web App**
