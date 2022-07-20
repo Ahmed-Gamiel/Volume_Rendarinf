@@ -1,12 +1,12 @@
 # 3D medical viewer built with vtk-js & Reactjs
-- [Task Objectives](#Task_Objectives)
+- [ِApp Objectives](#App_Objectives)
 - [Demos](#Demos)
     - [Chest](#Chest)
     - [Skull](#Skull)
 - [Team Members](#Team_Members)
 - [Run-App](#Run-App)  
 ------
-## Task_Objectives
+## App_Objectives
 ### Running Examples From VTK Website
 After installing React and Node.js we have run the examples from the vtk website.
 
